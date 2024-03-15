@@ -30,4 +30,9 @@ public class Teambuilder {
 			
 		return result;
 	}
+	
+	public ArrayList<Spieler> importSpieler(String fileNameWithPath) {
+		
+		return null;
+	}
 }
